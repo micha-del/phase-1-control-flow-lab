@@ -1,11 +1,19 @@
+function scuberGreetingForFeet(someValue){ 
+  let result
+  if (someValue < 0) {
+    result = 'This one is on me!'
+  }
+  return result
+}
 function scuberGreetingForFeet(){
-  // Write your code here!
+
 }
 
+
 function ternaryCheckCity(){
-  // Write your code here!
+
 }
 
 function switchOnCharmFromTip(){
-  // Write your code here!
+
 }
